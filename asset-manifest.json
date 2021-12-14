@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Edgemony_social-app/static/css/main.100dbae2.chunk.css",
+    "main.js": "/Edgemony_social-app/static/js/main.62410723.chunk.js",
+    "main.js.map": "/Edgemony_social-app/static/js/main.62410723.chunk.js.map",
+    "runtime-main.js": "/Edgemony_social-app/static/js/runtime-main.9b0b7331.js",
+    "runtime-main.js.map": "/Edgemony_social-app/static/js/runtime-main.9b0b7331.js.map",
+    "static/js/2.300a6172.chunk.js": "/Edgemony_social-app/static/js/2.300a6172.chunk.js",
+    "static/js/2.300a6172.chunk.js.map": "/Edgemony_social-app/static/js/2.300a6172.chunk.js.map",
+    "static/js/3.70bf0983.chunk.js": "/Edgemony_social-app/static/js/3.70bf0983.chunk.js",
+    "static/js/3.70bf0983.chunk.js.map": "/Edgemony_social-app/static/js/3.70bf0983.chunk.js.map",
+    "index.html": "/Edgemony_social-app/index.html",
+    "static/css/main.100dbae2.chunk.css.map": "/Edgemony_social-app/static/css/main.100dbae2.chunk.css.map",
+    "static/js/2.300a6172.chunk.js.LICENSE.txt": "/Edgemony_social-app/static/js/2.300a6172.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b0b7331.js",
+    "static/js/2.300a6172.chunk.js",
+    "static/css/main.100dbae2.chunk.css",
+    "static/js/main.62410723.chunk.js"
+  ]
+}
