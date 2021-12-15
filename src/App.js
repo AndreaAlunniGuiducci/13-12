@@ -1,5 +1,6 @@
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Home from './pages/Home';
 
 function App() {
   const name = 'Feisbrut';
@@ -12,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <Header name={name} links={nav} />
-      <p>Lorem Ipsum</p>
+      <Home />
       <Footer />
     </div>
   );
