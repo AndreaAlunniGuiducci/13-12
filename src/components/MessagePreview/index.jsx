@@ -4,7 +4,6 @@ import { it } from 'date-fns/locale';
 
 const MessagePreview = (props) => {
     const data = props.data || { text: 'Lorem Ipsum', date: new Date(), sender: 'User' };
-    const createDate = (date) => new Date(date);
 
     return (
         <div className={styles.message}>
